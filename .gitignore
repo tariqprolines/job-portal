@@ -1,0 +1,7 @@
+vite.config.ts
+dist/
+node_modules/
+npm_dev.log
+output.log
+package-lock.json
+.env
